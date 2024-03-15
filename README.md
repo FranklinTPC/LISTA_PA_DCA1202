@@ -1,3 +1,4 @@
 # LISTA_PA_DCA1202
-Nome: <b>Franklin Thiago Pereira Correia<b>
-Matricula: <b>20210014268<b>
+Nome: <b>Franklin Thiago Pereira Correia
+
+Matricula: <b>20210014268
